@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Josesilva793
 - 👀 I’m interested in find solutions to people problems.
-- 🌱 I’m currently learning front end stuff (CSS, HTML, REACT, NODE and Java Script)
+- 🌱 I’m currently learning machine learing in python and some uses in AI.
 - 💞️ I’m looking to collaborate on projects to improve my experiences.
 - 📫 Reach me at https://www.instagram.com/junior_793/
 
